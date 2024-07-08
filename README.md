@@ -1,1 +1,1 @@
-# -onfigurator
+# Сonfigurator
